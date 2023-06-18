@@ -1,2 +1,8 @@
 venv/
 .config/
+.replit
+replit.nix
+.upm
+petry.lock
+pyptoject.toml
+.breakpoints
